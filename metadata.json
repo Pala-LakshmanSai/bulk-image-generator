@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Image Generator",
+  "description": "An application to generate a series of images from a list of prompts using the Gemini API. Enter multiple prompts, and watch as the images are created in bulk.",
+  "requestFramePermissions": []
+}
